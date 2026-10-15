@@ -30,7 +30,7 @@ Through this project, I practiced data analysis, feature engineering, and model 
 
 | File | Description |
 |---|---|
-| `practice.ipynb` | Jupyter Notebook containing the analysis, preprocessing, and model experiments |
+| `House_Price_Prediction_Model.ipynb` | Jupyter Notebook containing the analysis, preprocessing, and model experiments |
 | `submission.csv` | Predicted house prices submitted to Kaggle |
 | `data_description.txt` | Descriptions of the dataset's features |
 
